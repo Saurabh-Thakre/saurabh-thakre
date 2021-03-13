@@ -15,6 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saurabh-thakre" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saurabh-thakre" height="30" width="40" /></a>
+<a href="https://saurabhthakre.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Saurabh." height="30" width="40"/></a>
 <a href="https://instagram.com/saurabh.thakre_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="saurabh_thakre." height="30" width="40" /></a>
 </p>
 
