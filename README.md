@@ -24,7 +24,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabh-thakre&show_icons=true&theme=dark&locale=en&layout=compact" alt="Saurabh" /></p>
 
+<!-- [![Saurabh's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=saurabh_thakre&theme=onedark)] -->
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabh-thakre&theme=dark&show_icons=true&locale=en" alt="Saurabh" /></p>
+
 
 
 
