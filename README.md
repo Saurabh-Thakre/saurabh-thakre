@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabh-thakre" alt="Saurabh" /></a> </p>
 
-- 🔭 I’m professionally currently working with **Red Hat Ansible**
+- 🔭 He is professionally currently working with **Red Hat Ansible**
 
 - 💬 Saurabh is an enthusiastic nerd who landed in this world in search looking for a way to enjoy life to the fullest. He is an Open Source contributor, his contribution lies mostly in Fedora Silverblue, Ansible, and Mozilla.
  He is a fan of technology, entrepreneurship, and programming. He is also interested in Volunteering, you'll find him as an Organizer, volunteer, or speaker at many OpenSource conferences.
